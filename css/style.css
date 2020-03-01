@@ -5,4 +5,29 @@
   border: 0;
   font-family: 微軟正黑體;
 }
+
+.icon-style {
+  background: #F8F8F8;
+  border-radius: 50% !important;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+.icon-style:hover {
+  background: #68D7C6;
+}
+
+.icon-5 {
+  width: 64px;
+  height: 64px;
+}
+
+.icon-4 {
+  width: 32px;
+  height: 32px;
+}
+
+.card {
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
